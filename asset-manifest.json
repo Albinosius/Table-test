@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Table-test/static/css/main.df3d2048.css",
+    "main.js": "/Table-test/static/js/main.49cd65ae.js",
+    "index.html": "/Table-test/index.html",
+    "main.df3d2048.css.map": "/Table-test/static/css/main.df3d2048.css.map",
+    "main.49cd65ae.js.map": "/Table-test/static/js/main.49cd65ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df3d2048.css",
+    "static/js/main.49cd65ae.js"
+  ]
+}
